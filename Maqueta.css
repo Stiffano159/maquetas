@@ -1,0 +1,90 @@
+                                                                            * {
+                                                                                margin: 0;
+                                                                                padding: 0;
+                                                                            }
+                                                                            
+                                                                            #contenedor {
+                                                                                width: 1200px;
+                                                                                height: 1000px;
+                                                                                background: #FA58D0;
+                                                                                margin: 0.5em auto;
+                                                                                padding: 0.5em;
+                                                                            }
+                                                                            
+                                                                            #Cabecera {
+                                                                                height: 20%;
+                                                                                background: #F5D0A9;
+                                                                                font-family: Arial;
+                                                                                font-size: 2em;
+                                                                                text-align: center;
+                                                                                margin: 1em;
+                                                                                border: 1em;
+                                                                            }
+                                                                            
+                                                                            #Menú {
+                                                                                height: 10%;
+                                                                                background: #D8D8D8;
+                                                                                font-family: Arial;
+                                                                                font-size: 2em;
+                                                                                text-align: center;
+                                                                                margin: 1em;
+                                                                                border: 1em;
+                                                                            }
+                                                                            
+                                                                            #contenido {
+                                                                                height: 44%;
+                                                                                background: #FA58D0;
+                                                                                margin: 0.5em;
+                                                                                border: 0.5em;
+                                                                            }
+                                                                            
+                                                                            #Pie {
+                                                                                height: 12%;
+                                                                                background: #D8D8D8;
+                                                                                font-family: Arial;
+                                                                                font-size: 2em;
+                                                                                text-align: center;
+                                                                                flood-color: black;
+                                                                                border: 1em;
+                                                                                margin: 1em;
+                                                                            }
+                                                                            
+                                                                            #Izquierda {
+                                                                                height: 100%;
+                                                                                width: 45%;
+                                                                                background: #819FF7;
+                                                                                font-family: Arial;
+                                                                                font-size: 3em;
+                                                                                text-align: center;
+                                                                                border: 1em;
+                                                                                margin: 0.5em;
+                                                                                float: left;
+                                                                            }
+                                                                            
+                                                                            #Derecha {
+                                                                                height: 100%;
+                                                                                width: 45%;
+                                                                                background: #81F781;
+                                                                                font-family: Arial;
+                                                                                font-size: 3em;
+                                                                                text-align: center;
+                                                                                border: 1em;
+                                                                                margin: 0.5em;
+                                                                                float: right;
+                                                                            }
+                                                                            
+                                                                            * {
+                                                                                margin: 0;
+                                                                                padding: 0;
+                                                                            }
+                                                                            
+                                                                            #Comentarios {
+                                                                                width: 1200px;
+                                                                                height: 200px;
+                                                                                background: cornsilk;
+                                                                                font-family: Arial;
+                                                                                color: darkblue;
+                                                                                font-size: 16px;
+                                                                                margin: 0.5em auto;
+                                                                                padding: 0.5em;
+                                                                            }
